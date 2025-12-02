@@ -8,3 +8,6 @@ def get_version():
 
 def sub_a_b(a,b):
     return a - b
+    
+def sum_a_b(a,b):
+    return a + b
