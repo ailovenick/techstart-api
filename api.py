@@ -5,3 +5,6 @@ def get_version():
     return "1.0.0"
 
 # Security patch applied
+
+def sub_a_b(a,b):
+    return a - b
